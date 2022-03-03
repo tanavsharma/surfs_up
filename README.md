@@ -9,11 +9,10 @@ A company has reached out to us to find weather data from Oahu, Hawaii. Specific
 Here are the results from our query. 
 
 #### June
-
-
-
+<img src="/Resources/June.png" alt="June Temps" width="135">
 
 #### December
+<img src="/Resources/December.png" alt="June Temps" width="135">
 
 
 **First Point:** We can see that the average temperature for the month of June is `74°F`. Which translates to `23°C`. So, we can say that having an ice cream and surf shop is sustainable for the month of June.
