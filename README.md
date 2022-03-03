@@ -15,11 +15,14 @@ Here are the results from our query.
 <img src="/Resources/December.png" alt="June Temps" width="135">
 
 
-**First Point:** We can see that the average temperature for the month of June is `74°F`. Which translates to `23°C`. So, we can say that having an ice cream and surf shop is sustainable for the month of June.
+**First Point:** 
+We can see that the average temperature for the month of June is `74°F`. Which translates to `23°C`. So, we can say that having an ice cream and surf shop is sustainable for the month of June.
 
-**Second Point:** We can see that the average temperature for the month of June is `71°F`. Which translates to `21°C`. So, we can say that having an ice cream and surf shop is sustainable for the month of December.
+**Second Point:** 
+We can see that the average temperature for the month of June is `71°F`. Which translates to `21°C`. So, we can say that having an ice cream and surf shop is sustainable for the month of December.
 
-**Third Point:** If we take into account just the minmum temps for th month of June and December, we can see that June has the lowest recorded temperature of 17°C and December is 13°C. So maybe having an ice cream and surf shop may not be busy or proiftable on these lower temperature days as people are less likely to have ice cream or go in the water for surfing. 
+**Third Point:** 
+If we take into account just the minmum temps for th month of June and December, we can see that June has the lowest recorded temperature of 17°C and December is 13°C. So maybe having an ice cream and surf shop may not be busy or proiftable on these lower temperature days as people are less likely to have ice cream or go in the water for surfing. 
 
 
 ## Summary
